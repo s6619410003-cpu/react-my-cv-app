@@ -9,7 +9,7 @@ import react from "../assets/react.png";
 import spring from "../assets/spring.png";
 import java from "../assets/java.png";
 import figma from "../assets/figma.png";
-import firebase from "../assets/firebase.png";
+import firebase from "../assets/Firebase.png";
 export default function Home() {
   return (
     <>
