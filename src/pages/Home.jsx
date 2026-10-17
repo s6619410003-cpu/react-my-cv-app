@@ -10,6 +10,7 @@ import spring from "../assets/spring.png";
 import java from "../assets/java.png";
 import figma from "../assets/figma.png";
 import firebase from "../assets/Firebase.png";
+
 export default function Home() {
   return (
     <>
@@ -21,7 +22,7 @@ export default function Home() {
           <span className="text-white text-6xl font-bold">Full Stack Web</span>
           <span className="text-white text-6xl font-bold">Developer !</span>
           <span className="text-white text-2xl">
-            I'm TeaTea SAU. A passionate Full Stack Web Developer based in Thailand.
+            I'm TeaTea (Anucha Saelim) SAU. A passionate Full Stack Web Developer based in Thailand.
           </span>
           <div className="flex gap-4">
             <FaLinkedinIn className="text-green-400 text-4xl" />
